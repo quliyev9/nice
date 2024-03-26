@@ -3,37 +3,11 @@ body {
   font-weight: 500;
 }
 
-.imgbox img {
-  width: 100%;
+header .menu .imgbox {
+  width: 100px;
 }
-
-#Welcome .box {
-  padding: 80px 0;
-}
-#Welcome .box .textbox h1 {
-  position: absolute;
-  top: 220px;
-  left: 600px;
-  font-size: 40px;
-  color: #000000;
-}
-#Welcome .box .textbox h2 {
-  position: absolute;
-  top: 280px;
-  left: 400px;
-  font-size: 90px;
-  color: #000000;
-  font-weight: 700;
-}
-#Welcome .box .btn {
-  position: absolute;
-  top: 430px;
-  left: 700px;
-  background-color: #ffc800;
-  color: white;
-  padding: 18px 40px;
-  font-size: 22px;
-  font-weight: 700;
-}
-
-@im;/*# sourceMappingURL=style.css.map */
+header .menu nav a {
+  font-size: 20px;
+  color: #615f6a;
+  margin-right: 30px;
+}/*# sourceMappingURL=style.css.map */
