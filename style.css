@@ -3,9 +3,24 @@ body {
   font-weight: 500;
 }
 
-header .menu .imgbox {
-  width: 100px;
+#services .box .textbox h1 {
+  font-weight: 700;
+  font-size: 40px;
 }
+#services .box .textbox h3 {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 10px 0;
+}
+#services .box .textbox h2 {
+  font-weight: 700;
+  font-size: 30px;
+}
+#services .box .textbox p {
+  line-height: 1.5;
+  margin: 10px 0;
+}
+
 header .menu nav a {
   font-size: 20px;
   color: #615f6a;
