@@ -3,6 +3,16 @@ body {
   font-weight: 500;
 }
 
+.imgbox img {
+  width: 100%;
+}
+
+#Welcome .box .imgbox {
+  position: relative;
+  top: 0px;
+  left: 0px;
+}
+
 #services .box .textbox h1 {
   font-weight: 700;
   font-size: 40px;
