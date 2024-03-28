@@ -20,6 +20,12 @@ body {
   line-height: 1.5;
   margin: 10px 0;
 }
+#services .box .icon {
+  font-size: 60px;
+}
+#services .box .btn {
+  background-color: #792e2e;
+}
 
 header .menu nav a {
   font-size: 20px;
