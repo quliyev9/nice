@@ -27,14 +27,21 @@ body {
   font-size: 30px;
 }
 #services .box .textbox p {
+  font-weight: 400px;
+  font-size: 16px;
   line-height: 1.5;
   margin: 10px 0;
-}
-#services .box .icon {
-  font-size: 60px;
+  width: 340px;
 }
 #services .box .btn {
   background-color: #792e2e;
+  border-radius: 50px;
+  width: 90px;
+  margin: 10px 0;
+}
+#services .box .btn .icon {
+  font-size: 50px;
+  color: white;
 }
 
 header .menu nav a {
