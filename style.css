@@ -47,4 +47,23 @@ header .menu nav a {
   font-size: 20px;
   color: #615f6a;
   margin-right: 30px;
+}
+
+#portfolio {
+  padding: 60px 0;
+}
+#portfolio .box .textbox h1 {
+  font-weight: 700;
+  font-size: 40px;
+}
+#portfolio .box .textbox h3 {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 10px 0;
+}
+#portfolio .box .textbox h2 {
+  margin: 25px 0px 0px 0px;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 1.5;
 }/*# sourceMappingURL=style.css.map */
